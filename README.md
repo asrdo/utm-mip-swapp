@@ -59,15 +59,17 @@ We are currently at:
 
 ### [*1-Proposal*](./1-Proposal/) (COMPLETE)
 
+### [*2-Product Backlog*](./2-Backlog/) (COMPLETE)
+
 
 ## **Remarks**
 
 - Yet to decide a diretory for source code
-    - Directory names inside:
+    - Directory names [naming convention for folders]:
         - `assets` for images
-        - `build` for compilation files
-        - `docs` for documentation files
         - `lib` for source code
+        - `docs` for documentation files
+        - `build` for compilation files
         - `test` for automated tests
 
 ---
